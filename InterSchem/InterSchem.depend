@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1642069541 source:d:\codeblocks\interschem\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<fstream>
+	"evaluare_infixat.h"
+	"citireDinFereastraGrafica.h"
+	"Xsi0.h"
+	<cmath>
+	<math.h>
+
+1641845474 d:\codeblocks\interschem\evaluare_infixat.h
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<climits>
+	<cmath>
+
+1641845504 d:\codeblocks\interschem\citiredinfereastragrafica.h
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+
+1641845600 d:\codeblocks\interschem\xsi0.h
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+
